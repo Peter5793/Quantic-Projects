@@ -1,0 +1,6 @@
+env/
+instance/
+*.pyc
+__pycache__/
+*.pyo
+get-pip.py

@@ -1,0 +1,9 @@
+{% extends "layout.html" %}
+{% block container %}
+<h2>These are the items in the shopping cart</h2>
+<ul>
+    {% for type in types %}
+        <li>{{ type }}</li>
+    {% endfor %}
+</ul>
+{% endblock %}
