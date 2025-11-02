@@ -1,0 +1,4 @@
+(# Ignore diagram files created by draw.io and related editors)
+*.drawio
+*.dio
+.env
