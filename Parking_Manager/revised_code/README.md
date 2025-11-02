@@ -1,4 +1,4 @@
-# Design Justification — ParkingManager
+EasyPark Plus ParkingManager
 
 This document explains the Domain-Driven Design approach, microservices architecture, and design patterns applied to the ParkingManager project, focusing on both core parking management and EV charging capabilities.
 
